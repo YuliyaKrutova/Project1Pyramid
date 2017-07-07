@@ -1,6 +1,6 @@
 package com.krutova.pyramid.action;
 
-import com.krutova.pyramid.entity.Point;
+import com.krutova.pyramid.entity.Point; 
 
 public class PointAction {
 	public Point vector(Point pointA, Point pointB){ 
