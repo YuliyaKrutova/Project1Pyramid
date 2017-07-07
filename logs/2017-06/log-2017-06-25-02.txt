@@ -1,0 +1,98 @@
+2017-06-25 02:02:53 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 02:02:54 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 02:02:54 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 02:02:54 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 02:02:54 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 02:02:54 [main] INFO  com.krutova.pyramid.factoryMethod.BigPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-25 02:02:54 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 1000.5531
+2017-06-25 02:03:09 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 02:03:09 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 02:03:09 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 02:03:09 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 02:03:09 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 02:03:09 [main] INFO  com.krutova.pyramid.factoryMethod.SmallPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-25 02:03:09 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 524.73285
+2017-06-25 02:04:01 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 02:04:01 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 02:04:01 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 02:04:01 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 02:04:01 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 02:04:01 [main] INFO  com.krutova.pyramid.factoryMethod.SmallPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-25 02:04:01 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 524.73285
+2017-06-25 02:05:23 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 02:05:23 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 02:05:23 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 02:05:23 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 02:05:23 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 02:05:23 [main] INFO  com.krutova.pyramid.factoryMethod.BigPyramid - Coordinates of Top Point1 = (21.0, 65.0, 1.0)
+2017-06-25 02:05:23 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 1000.5531
+2017-06-25 02:05:55 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 02:05:55 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 02:05:55 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 02:05:55 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 02:05:55 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 02:05:55 [main] INFO  com.krutova.pyramid.factoryMethod.BigPyramid - Coordinates of Top Point = (100.0, 100.0, 100.0)
+2017-06-25 02:05:55 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 1000.5531
+2017-06-25 02:06:10 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 02:06:11 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 02:06:11 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 02:06:11 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 02:06:11 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 02:06:11 [main] INFO  com.krutova.pyramid.factoryMethod.SmallPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-25 02:06:11 [main] INFO  com.krutova.pyramid.action.PyramidAction - Volume of a shape = 217.0
+2017-06-25 02:18:07 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 02:18:07 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 02:18:07 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 02:18:07 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 02:18:07 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 02:18:07 [main] INFO  com.krutova.pyramid.factoryMethod.BigPyramid - Coordinates of Top Point = (100.0, 100.0, 100.0)
+2017-06-25 02:18:07 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 1000.5531
+2017-06-25 02:18:07 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 02:18:07 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 02:18:07 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 02:18:07 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 02:18:07 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 02:18:07 [main] INFO  com.krutova.pyramid.factoryMethod.SmallPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-25 02:18:07 [main] INFO  com.krutova.pyramid.action.PyramidAction - Volume of a shape = 217.0
+2017-06-25 02:19:06 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 02:19:06 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 02:19:06 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 02:19:06 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 02:19:06 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 02:19:06 [main] INFO  com.krutova.pyramid.factoryMethod.BigPyramid - Coordinates of Top Point = (100.0, 100.0, 100.0)
+2017-06-25 02:19:06 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 1000.5531
+2017-06-25 02:19:17 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 02:19:17 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 02:19:17 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 02:19:17 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 02:19:17 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 02:19:17 [main] INFO  com.krutova.pyramid.factoryMethod.BigPyramid - Coordinates of Top Point = (100.0, 100.0, 100.0)
+2017-06-25 02:19:17 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 1000.5531
+2017-06-25 02:19:22 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 02:19:22 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 02:19:22 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 02:19:22 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 02:19:22 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 02:19:22 [main] INFO  com.krutova.pyramid.factoryMethod.BigPyramid - Coordinates of Top Point = (100.0, 100.0, 100.0)
+2017-06-25 02:19:22 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 1000.5531
+2017-06-25 02:19:29 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 02:19:29 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 02:19:29 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 02:19:29 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 02:19:29 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 02:19:29 [main] INFO  com.krutova.pyramid.factoryMethod.BigPyramid - Coordinates of Top Point = (100.0, 100.0, 100.0)
+2017-06-25 02:19:29 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 1000.5531
+2017-06-25 02:21:13 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 02:21:13 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 02:21:13 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 02:21:13 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 02:21:13 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 02:21:13 [main] INFO  com.krutova.pyramid.factoryMethod.BigPyramid - Coordinates of Top Point = (100.0, 100.0, 100.0)
+2017-06-25 02:21:13 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 1000.5531
+2017-06-25 02:21:13 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 02:21:13 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 02:21:13 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 02:21:13 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 02:21:13 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 02:21:13 [main] INFO  com.krutova.pyramid.factoryMethod.SmallPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-25 02:21:13 [main] INFO  com.krutova.pyramid.action.PyramidAction - Volume of a shape = 217.0

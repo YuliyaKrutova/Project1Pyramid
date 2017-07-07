@@ -1,0 +1,14 @@
+2017-06-18 20:21:44 [main] INFO  com.krutova.project_pyramid.entity.Pyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-18 20:21:44 [main] INFO  com.krutova.project_pyramid.action.PyramidAction - Surface area of a shape = 524.73285
+2017-06-18 20:22:23 [main] INFO  com.krutova.project_pyramid.entity.Pyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-18 20:22:23 [main] INFO  com.krutova.project_pyramid.action.PyramidAction - Surface area of a shape = 524.73285
+2017-06-18 20:23:22 [main] INFO  com.krutova.project_pyramid.entity.Pyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-18 20:23:22 [main] INFO  com.krutova.project_pyramid.action.PyramidAction - Volume of a shape = 217.0
+2017-06-18 20:24:42 [main] INFO  com.krutova.project_pyramid.entity.Pyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-18 20:24:42 [main] INFO  com.krutova.project_pyramid.action.PyramidAction - Surface area of a shape = 524.73285
+2017-06-18 20:27:49 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created:(21.0, 65.0, 1.0)
+2017-06-18 20:27:49 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created:(1.0, 1.0, 4.0)
+2017-06-18 20:27:49 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created:(-2.0, 4.0, 2.0)
+2017-06-18 20:27:49 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created:(-2.0, -2.0, -2.0)
+2017-06-18 20:27:49 [main] INFO  com.krutova.project_pyramid.entity.Pyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-18 20:27:49 [main] INFO  com.krutova.project_pyramid.action.PyramidAction - Surface area of a shape = 524.73285

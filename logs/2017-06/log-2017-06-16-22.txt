@@ -1,0 +1,4 @@
+2017-06-16 22:45:23 [main] TRACE com.krutova.projectPyramid.action.PyramidAction - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-16 22:45:23 [main] TRACE com.krutova.projectPyramid.action.PyramidAction - Surface area of a shape = 524.73285
+2017-06-16 22:45:34 [main] TRACE com.krutova.projectPyramid.action.PyramidAction - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-16 22:45:34 [main] TRACE com.krutova.projectPyramid.action.PyramidAction - Volume of a shape = 217.0

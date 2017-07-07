@@ -1,0 +1,27 @@
+2017-06-21 02:34:20 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-21 02:34:20 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-21 02:34:20 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-21 02:34:20 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-21 02:34:20 [main] INFO  com.krutova.project_pyramid.factory_method.SmallPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-21 02:34:20 [main] INFO  com.krutova.project_pyramid.action.PyramidAction - Surface area of a shape = 524.73285
+2017-06-21 02:34:35 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-21 02:34:35 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-21 02:34:35 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-21 02:34:35 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-21 02:34:35 [main] INFO  com.krutova.project_pyramid.factory_method.BigPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-21 02:34:35 [main] INFO  com.krutova.project_pyramid.action.PyramidAction - Surface area of a shape = 1000.5531
+2017-06-21 02:35:11 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-21 02:35:11 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-21 02:35:11 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-21 02:35:11 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-21 02:35:11 [main] INFO  com.krutova.project_pyramid.factory_method.SmallPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-21 02:35:11 [main] INFO  com.krutova.project_pyramid.action.PyramidAction - Volume of a shape = 217.0
+2017-06-21 02:35:20 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-21 02:35:20 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-21 02:35:20 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-21 02:35:20 [main] INFO  com.krutova.project_pyramid.file.FileAction - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-21 02:35:20 [main] INFO  com.krutova.project_pyramid.factory_method.BigPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-21 02:35:20 [main] INFO  com.krutova.project_pyramid.action.PyramidAction - Volume of a shape = 306.0
+2017-06-21 02:36:36 [main] INFO  com.krutova.project_pyramid.factory_method.SmallPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-21 02:36:36 [main] INFO  com.krutova.project_pyramid.action.PyramidAction - Surface area of a shape = 524.73285
+2017-06-21 02:36:36 [main] INFO  com.krutova.project_pyramid.action.PyramidAction - Volume of a shape = 217.0

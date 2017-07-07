@@ -1,0 +1,33 @@
+2017-06-25 01:19:41 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 01:19:41 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 01:19:41 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 01:19:41 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 01:19:41 [main] INFO  com.krutova.pyramid.factoryMethod.SmallPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-25 01:19:41 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 524.73285
+2017-06-25 01:19:43 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 01:19:43 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 01:19:43 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 01:19:43 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 01:19:43 [main] INFO  com.krutova.pyramid.factoryMethod.SmallPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-25 01:19:43 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 524.73285
+2017-06-25 01:23:11 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 01:23:11 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 01:23:11 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 01:23:11 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 01:23:11 [main] INFO  com.krutova.pyramid.factoryMethod.SmallPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-25 01:23:11 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 524.73285
+2017-06-25 01:24:00 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 01:24:00 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 01:24:00 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 01:24:00 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 01:24:00 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 01:24:00 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 01:24:00 [main] INFO  com.krutova.pyramid.factoryMethod.SmallPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-25 01:24:00 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 524.73285
+2017-06-25 01:24:59 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(21.0, 65.0, 1.0)
+2017-06-25 01:24:59 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(1.0, 1.0, 4.0)
+2017-06-25 01:24:59 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, 4.0, 2.0)
+2017-06-25 01:24:59 [main] INFO  com.krutova.pyramid.fileManager.FileParser - New Point is created from File:(-2.0, -2.0, -2.0)
+2017-06-25 01:24:59 [main] WARN  com.krutova.pyramid.fileManager.FileParser - More rows than expected!
+2017-06-25 01:24:59 [main] INFO  com.krutova.pyramid.factoryMethod.SmallPyramid - Coordinates of Top Point = (21.0, 65.0, 1.0)
+2017-06-25 01:24:59 [main] INFO  com.krutova.pyramid.action.PyramidAction - Surface area of a shape = 524.73285
