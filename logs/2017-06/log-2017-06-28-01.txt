@@ -1,0 +1,2 @@
+2017-06-28 01:05:12 [main] INFO  com.krutova.pyramid.factoryMethod.SmallPyramid - Coordinates of Top Point = (10.0, 10.0, 10.0)
+2017-06-28 01:05:27 [main] INFO  com.krutova.pyramid.factoryMethod.SmallPyramid - Coordinates of Top Point = (10.0, 10.0, 10.0)
